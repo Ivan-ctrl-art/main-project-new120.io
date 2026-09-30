@@ -49,5 +49,5 @@ app.get('/rooms', (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`Сервер запущен на http://localhost:${PORT}`);
+    console.log(`Сервер запущен на https://ivan-ctrl-art.github.io/main-project-new120.io/${PORT}`);
 });
